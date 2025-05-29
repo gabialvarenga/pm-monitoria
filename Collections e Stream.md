@@ -1,7 +1,3 @@
-Claro! Abaixo está o conteúdo formatado em Markdown, pronto para ser utilizado no GitHub. Este guia detalhado aborda os principais conceitos do Java Collections Framework, Streams API, interfaces `Comparable` e `Comparator`, além de métodos de iteração como `for-each` e `Iterator`, com exemplos práticos e explicações passo a passo.
-
----
-
 # Guia Prático: Java Collections, Streams, Comparable e Comparator
 ## 1. Java Collections Framework (JCF)
 O **Java Collections Framework** é um conjunto de interfaces e classes que facilitam o armazenamento, acesso e manipulação de dados de forma eficiente.
